@@ -1,2 +1,3 @@
 # swatigit-demo
-this is my first trial
+This is my first trial
+Author - swatcat
